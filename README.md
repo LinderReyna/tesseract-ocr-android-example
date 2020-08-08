@@ -6,3 +6,5 @@ Application abilities:
 - determination of recognized text regions directly from frames captured by smartphone camera
 - displaying recognized text regions over the frames captured by smartphone camera at real time
 - performing text recognition of frames captured by smartphone camera
+
+https://coderwall.com/p/eurvaq/tesseract-with-andoird-and-gradle
